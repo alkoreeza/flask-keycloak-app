@@ -1,0 +1,8 @@
+{
+"realm": "master",
+"auth-server-url": "http://192.168.0.19:8080/",
+"ssl-required": "none",
+"resource": "flask-app",
+"public-client": true,
+"confidential-port": 0
+}
